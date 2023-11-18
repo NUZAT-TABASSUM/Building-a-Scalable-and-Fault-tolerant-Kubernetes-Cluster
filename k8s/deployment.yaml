@@ -35,6 +35,7 @@ spec:
       - name: todo-app
 
         image: nuzat645/django-todo:latest
+        imagePullPolicy: IfNotPresent
 
         ports:
 

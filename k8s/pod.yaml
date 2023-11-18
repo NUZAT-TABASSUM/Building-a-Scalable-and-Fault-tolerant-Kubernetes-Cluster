@@ -4,7 +4,7 @@ kind: Pod
 
 metadata:
 
-  name: todo-pod
+  name: todo-app
 
 spec:
 

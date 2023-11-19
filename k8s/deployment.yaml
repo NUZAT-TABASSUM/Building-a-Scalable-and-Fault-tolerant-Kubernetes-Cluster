@@ -34,7 +34,7 @@ spec:
 
       - name: todo-app
 
-        image: nuzat645/django-todo:latest
+        image: nuzat645/django-todo-cicd:latest
         imagePullPolicy: Always
 
         ports:

@@ -1,6 +1,6 @@
 # django-todo
 # Project Name 
-# Building a Scalable and Fault-tolerant Kubernetes Cluster on AWS with Minikube
+# Deploying a Scalable and Fault-tolerant Kubernetes Cluster on AWS using Ingress resources with SSL Certificate
 
 # Project Description
 Designed and implemented an end-to-end solution for orchestrating containerized applications on AWS, ensuring scalability and fault tolerance. Leveraged Kubernetes, Ingress resources, and SSL certificates to optimize network and service management. Created a development environment using Minikube on AWS, containerized applications with Docker, and seamlessly managed them within Kubernetes Pods. Achieved automated deployment, replication, auto-healing, and auto-scaling in a fault-tolerant Kubernetes cluster, enhancing overall system resilience and performance.
